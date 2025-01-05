@@ -1,0 +1,12 @@
+[{
+  "_id": "admin",
+  "name": "admin1",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$Hm4dKqe5rpVmx2A71D3J6eWYSpxPPwtmrc8UD3tjaVchgtvsoHExO"
+},
+{
+  "_id": "guest",
+  "name": "dummy",
+  "email": "dummy@gmail.com",
+  "password": "$2b$10$j0zBSqWv.44MHr3S0.sbYOfhQ0vdrMdevPb/zkWLbxVf1vhaAgQQO"
+}]
